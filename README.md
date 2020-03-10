@@ -35,6 +35,8 @@ VirtualBox: https://www.virtualbox.org/wiki/Downloads
 
 Kali Download: https://www.offensive-security.com/kali-linux-vm-vmware-virtualbox-image-download/
 
+Shared Drive: https://drive.google.com/open?id=1pIh9t_e6CyjaaZgtA_K1okZkcHhrXncX
+
 ### Mid-Course Capstone
 Cracking Hashes with Hashcat: https://youtu.be/eq097dEB8Sw
 
