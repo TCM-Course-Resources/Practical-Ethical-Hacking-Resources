@@ -17,8 +17,6 @@ KeepNote notebook: https://github.com/josephkingstone/keepnote
 ### Networking Refresher
 Seven Second Subnetting: https://www.youtube.com/watch?v=ZxAwQB8TZsM
 
-add second link
-
 ### Setting up our Lab
 VMware: https://www.vmware.com/products/workstation-player/workstation-player-evaluation.html
 
