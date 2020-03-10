@@ -83,7 +83,7 @@ sumrecon: https://github.com/thatonetester/sumrecon
  
  OWASP A6-Security Misconfigurations: https://www.owasp.org/index.php/Top_10-2017_A6-Security_Misconfiguration
  
- OWASP A7-Cross Site SCripting: https://www.owasp.org/index.php/Top_10-2017_A7-Cross-Site_Scripting_(XSS)
+ OWASP A7-Cross Site Scripting: https://www.owasp.org/index.php/Top_10-2017_A7-Cross-Site_Scripting_(XSS)
  
  DOM Based XSS: https://www.scip.ch/en/?labs.20171214
  
