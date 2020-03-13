@@ -110,6 +110,9 @@ Demo Report: https://a2.udemycdn.com/2019-12-22_08-33-23-a60e56f8b03913823c087f2
  #### Hunter.io
  * Site: https://hunter.io/
  
+ #### theHarvester
+ * Github: https://github.com/laramies/theHarvester
+ 
  #### breach-parse
  * Github: https://github.com/hmaverickadams/breach-parse
  
