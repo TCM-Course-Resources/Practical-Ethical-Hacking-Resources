@@ -104,6 +104,9 @@ sumrecon: https://github.com/thatonetester/sumrecon
  ### Legal Documents and Report Writing
  Sample Pentest Report: https://github.com/hmaverickadams/TCM-Security-Sample-Pentest-Report
  
+ ## Course Notes, Courtesy of Enigma
+ Course Notes: https://onedrive.live.com/view.aspx?resid=42005F2B73E92A16!16546&authkey=!ACt7HgbJMllFQ8o
+ 
  Demo Report: https://a2.udemycdn.com/2019-12-22_08-33-23-a60e56f8b03913823c087f209565635d/original.pdf?nva=20200310074458&token=00f19e2dcbfff2a1d1a99
  
  
