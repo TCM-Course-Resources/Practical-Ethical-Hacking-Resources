@@ -106,6 +106,21 @@ sumrecon: https://github.com/thatonetester/sumrecon
 
 Demo Report: https://a2.udemycdn.com/2019-12-22_08-33-23-a60e56f8b03913823c087f209565635d/original.pdf?nva=20200310074458&token=00f19e2dcbfff2a1d1a99
 
+ ## Tools
+ #### Hashcat: 
+ * Github: https://github.com/hashcat/hashcat
+ * Installing on Windows: https://www.erobber.in/2017/04/hashcat-for-windows.html
+ 
+ #### mitm6: 
+ * Github: https://github.com/fox-it/mitm6
+ 
+ #### mimikatz:
+ * Github: https://github.com/gentilkiwi/mimikatz
+ 
+ #### sumrecon 
+ * Github: https://github.com/thatonetester/sumrecon
+ 
+ 
  ## Course Notes, Courtesy of Enigma
  Course Notes: https://onedrive.live.com/view.aspx?resid=42005F2B73E92A16!16546&authkey=!ACt7HgbJMllFQ8o
  
