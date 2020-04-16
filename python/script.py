@@ -65,9 +65,9 @@ nl()
 
 # boolean expressions (true/false)
 print("Boolean Expressions:")
-bool1 = true
+bool1 = True
 bool2 = 3 * 3 ==9
-bool3 = false
+bool3 = False
 bool4 = 3 * 3 !=9
 
 print(bool1,bool2,bool3,bool4)
@@ -78,16 +78,16 @@ nl()
 # Relational and boolean expressions
 
 greater_than = 7 > 5
-less _than =  5 < 7
+less_than =  5 < 7
 greater_than_equal_to = 7 >= 7 
-less_than _ equal_to = 7 <= 7
+less_than_equal_to = 7 <= 7
 
-test_and1 = (7 > 5) and (5 < 7) # true
-test_and2 = (7 > 5) and (7 > 5) # false
-test_or =  (7 > 5) or (5 < 7) # true
-test_or2 = (7 > 5) or (5 > 7) # false
+test_and1 = (7 > 5) and (5 < 7)  # True
+test_and2 = (7 > 5) and (7 > 5)  # False
+test_or =  (7 > 5) or (5 < 7)  # True
+test_or2 = (7 > 5) or (5 > 7)  # False
 
-test_not = not true #false
+test_not = not True  # False
 
 nl()
 #Conditional statements
@@ -107,7 +107,7 @@ def alcohol(age,money):
     return "not enought bud"
   elif (age < 21) and (money >= 5):
     return "Nice try kid"
-  else
+  else:
     return "You're broke and too young"
   
 print(alcohol(21,5))
@@ -120,7 +120,7 @@ movies = ["Hangover", "The Perkins", "Spiderman 3"]
   
 print(movies[1]) # return second item
 print(movies[0]) # returns first item
-print(movues[1:4])
+print(movies[1:4])
 print(movies[1:])
 print(movies[:2])
 print(movies[-1]) 
@@ -149,7 +149,6 @@ for x in vegetables:
  # While loops - execute so long as true
 
 i = 1
-
 while i < 100:
   print(i)
   i+=1

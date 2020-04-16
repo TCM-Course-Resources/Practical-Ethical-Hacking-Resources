@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 
-import sys # import sys library
+import sys  # import sys library
 from datetime import datetime as dt # importing date time and aliasing it as dt
-print(sys.verson())
+print(sys.version)
 print(dt.now())
 
 # Advanced strings
@@ -18,7 +18,7 @@ print(sentence.split())
 sentence_split = sentence.split()
 sentence_join = ' '.join(sentence_split)
 
-quote = "He said, \"Give me all your money"\"
+quote = "He said, \"Give me all your money\""
 print(quote)
 
 too_much_space = "          hello"

@@ -11,7 +11,7 @@ else:
   print("Syntax: python3 port_scanner.py [ip/hostname]")
 
 print("Scannning target: " + target)
-print("Time started: " + str(dt,now()))
+print("Time started: " + str(dt.now()))
 print('-' * 50)
 
 try:
