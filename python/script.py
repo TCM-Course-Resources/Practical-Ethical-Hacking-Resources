@@ -15,7 +15,7 @@ gpa = 3.7 # float
 print(int(age)) # casting int as int
 print(int(30.9)) # casting float as int
 
-print("Hello, my name is " + name + " and I am " + str(age) " years old!")
+print("Hello, my name is " + name + " and I am " + str(age) + " years old!")
 
 age+=1
 print(age)
@@ -153,6 +153,3 @@ i = 1
 while i < 100:
   print(i)
   i+=1
-  
-  
-
