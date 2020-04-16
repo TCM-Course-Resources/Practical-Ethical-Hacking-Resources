@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 import sys
-import datetime from datetime as dt
+from datetime import datetime as dt
 import socket
 
 if len(sys.argv) == 2:
