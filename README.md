@@ -107,9 +107,7 @@ sumrecon: https://github.com/thatonetester/sumrecon
  
  ### Legal Documents and Report Writing
  Sample Pentest Report: https://github.com/hmaverickadams/TCM-Security-Sample-Pentest-Report
-
- Demo Report Repo: https://github.com/hmaverickadams/TCM-Security-Sample-Pentest-Report
- 
+  
  ## Tools
  #### Hunter.io
  * Site: https://hunter.io/
