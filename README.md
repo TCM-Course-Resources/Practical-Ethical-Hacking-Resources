@@ -103,7 +103,7 @@ sumrecon: https://github.com/thatonetester/sumrecon
  
  OWASP A9-Using Components with Known Vulnerabilities: https://www.owasp.org/index.php/Top_10-2017_A9-Using_Components_with_Known_Vulnerabilities
  
- OWASP A10-Insufficient Logging & Monitoring: https://www.owasp.org/index.php/Top_10-2017_A10-Insufficient_Logging%26Monitoring
+ OWASP A10-Insufficient Logging & Monitoring: https://owasp.org/www-project-top-ten/OWASP_Top_Ten_2017/Top_10-2017_A10-Insufficient_Logging%252526Monitoring.html
  
  ### Legal Documents and Report Writing
  Sample Pentest Report: https://github.com/hmaverickadams/TCM-Security-Sample-Pentest-Report
