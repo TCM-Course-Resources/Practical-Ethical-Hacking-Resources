@@ -10,7 +10,7 @@ Link to course: https://www.udemy.com/course/practical-ethical-hacking/
 
 Link to discord server: https://discord.gg/RHZ7UF7
 
-FAQ: https://a.udemycdn.com/2020-02-11_19-58-08-4cc3085ee09e86c772bbea22300f4bb8/original.pdf?nva=20200310064315&token=0d866d71c6ffd2e7e0a40
+FAQ: 
 
 ### Note Keeping
 KeepNote: http://keepnote.org/
@@ -108,8 +108,8 @@ sumrecon: https://github.com/thatonetester/sumrecon
  ### Legal Documents and Report Writing
  Sample Pentest Report: https://github.com/hmaverickadams/TCM-Security-Sample-Pentest-Report
 
-Demo Report: https://a2.udemycdn.com/2019-12-22_08-33-23-a60e56f8b03913823c087f209565635d/original.pdf?nva=20200310074458&token=00f19e2dcbfff2a1d1a99
-
+ Demo Report Repo: https://github.com/hmaverickadams/TCM-Security-Sample-Pentest-Report
+ 
  ## Tools
  #### Hunter.io
  * Site: https://hunter.io/
