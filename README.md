@@ -10,7 +10,7 @@ Link to course: https://www.udemy.com/course/practical-ethical-hacking/
 
 Link to discord server: https://discord.gg/RHZ7UF7
 
-FAQ: 
+FAQ: https://github.com/hmaverickadams/Practical-Ethical-Hacking-FAQ
 
 ### Note Keeping
 KeepNote: http://keepnote.org/
