@@ -28,6 +28,8 @@ Joplin: https://github.com/laurent22/joplin
 ### Networking Refresher
 Seven Second Subnetting: https://www.youtube.com/watch?v=ZxAwQB8TZsM
 
+Subnet Guide: https://drive.google.com/file/d/1ETKH31-E7G-7ntEOlWGZcDZWuukmeHFe/view
+
 ### Setting up our Lab
 VMware: https://www.vmware.com/products/workstation-player/workstation-player-evaluation.html
 
