@@ -1,3 +1,3 @@
-[submodule "sub3num"]
+[submodule "/bash/sub3num"]
 	path = sub3num
 	url = https://github.com/shagunattri/sub3num
