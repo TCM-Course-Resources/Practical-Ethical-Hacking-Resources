@@ -72,6 +72,8 @@ eLS PTX: https://www.elearnsecurity.com/course/penetration_testing_extreme/
 ### Web Application Enumeration, Revisited
 sumrecon: https://github.com/thatonetester/sumrecon
 
+sub3num: https://github.com/shagunattri/sub3num
+
 ### Testing the Top 10 Web Application Vulnerabilities
  OWASP Top 10: https://www.owasp.org/images/7/72/OWASP_Top_10-2017_%28en%29.pdf.pdf
  
