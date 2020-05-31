@@ -46,6 +46,11 @@ Other Offical kali 2019 Releases: https://cdimage.kali.org/
 ### Mid-Course Capstone
 Cracking Hashes with Hashcat: https://youtu.be/eq097dEB8Sw
 
+### Introduction to Exploit Development (Buffer Overflows)
+Immunity Debugger: https://www.immunityinc.com/products/debugger/
+
+Vulnserver: http://www.thegreycorner.com/p/vulnserver.html
+
 ### Attacking Active Directory: Initial Attack Vectors
 mitm6: https://blog.fox-it.com/2018/01/11/mitm6-compromising-ipv4-networks-via-ipv6/
 
