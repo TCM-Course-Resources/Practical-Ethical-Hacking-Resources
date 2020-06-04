@@ -138,8 +138,10 @@ sumrecon: https://github.com/thatonetester/sumrecon
  #### sumrecon 
  * Github: https://github.com/thatonetester/sumrecon
  
+ ### Setting up Your AD Lab Using Azure
+ Building Free AD lab: https://medium.com/@kamran.bilgrami/ethical-hacking-lessons-building-free-active-directory-lab-in-azure-6c67a7eddd7f
  
- ## Course Notes, Courtesy of Enigma
+ ### Course Notes, Courtesy of Enigma
  Course Notes: https://onedrive.live.com/view.aspx?resid=42005F2B73E92A16!16546&authkey=!ACt7HgbJMllFQ8o
  
  
