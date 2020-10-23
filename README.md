@@ -6,9 +6,11 @@ Compilation of Resources from TCM's Udemy Course
 
 Link to Website: https://www.thecybermentor.com/
 
-Link to course: https://www.udemy.com/course/practical-ethical-hacking/
+Link to course: 
+* https://www.udemy.com/course/practical-ethical-hacking/ (udemy)
+* https://academy.tcm-sec.com/p/practical-ethical-hacking-the-complete-course (tcm academy)
 
-Link to discord server: https://discord.gg/RHZ7UF7
+Link to discord server: https://discord.gg/EM6tqPZ
 
 FAQ: https://github.com/hmaverickadams/Practical-Ethical-Hacking-FAQ
 
