@@ -17,7 +17,7 @@ FAQ: https://github.com/hmaverickadams/Practical-Ethical-Hacking-FAQ
 ### Note Keeping
 KeepNote: http://keepnote.org/
 
-CheryTree: https://www.giuspen.com/cherrytree/
+CherryTree: https://www.giuspen.com/cherrytree/
 
 GreenShot: https://getgreenshot.org/downloads/
 
