@@ -15,6 +15,9 @@ Link to discord server: https://discord.gg/EM6tqPZ
 FAQ: https://github.com/hmaverickadams/Practical-Ethical-Hacking-FAQ
 
 ### Note Keeping
+
+Trilium: https://github.com/zadam/trilium
+
 KeepNote: http://keepnote.org/
 
 CherryTree: https://www.giuspen.com/cherrytree/
