@@ -56,6 +56,8 @@ Immunity Debugger: https://www.immunityinc.com/products/debugger/
 
 Vulnserver: http://www.thegreycorner.com/p/vulnserver.html
 
+Bad Chars: https://www.ins1gn1a.com/identifying-bad-characters/
+
 ### Attacking Active Directory: Initial Attack Vectors
 
 Top Five Ways I Got DA on Your Internal Network Before Lunch: https://adam-toscher.medium.com/top-five-ways-i-got-domain-admin-on-your-internal-network-before-lunch-2018-edition-82259ab73aaa 
