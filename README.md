@@ -49,7 +49,13 @@ Official Offensive Security kali 2019.3 release: https://cdimage.kali.org/kali-2
 Other Offical kali 2019 Releases: https://cdimage.kali.org/
 
 ### Mid-Course Capstone
-Cracking Hashes with Hashcat: https://youtu.be/eq097dEB8Sw
+New Capstone boxes: https://drive.google.com/drive/folders/1G3869JJ7KmK-5ddr6w1GbwnNZ3agtnP1
+
+Old Capstone boxes: https://youtu.be/JZN3JhoAdWo
+
+Linux Priv Esc course: https://academy.tcm-sec.com/p/windows-privilege-escalation-for-beginners
+
+Windows Priv Esc Course: https://academy.tcm-sec.com/p/linux-privilege-escalation
 
 ### Introduction to Exploit Development (Buffer Overflows)
 Immunity Debugger: https://www.immunityinc.com/products/debugger/
