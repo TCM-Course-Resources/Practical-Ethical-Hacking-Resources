@@ -49,7 +49,7 @@ Official Offensive Security kali 2019.3 release: https://cdimage.kali.org/kali-2
 Other Offical kali 2019 Releases: https://cdimage.kali.org/
 
 ### Mid-Course Capstone
-New Capstone boxes: https://drive.google.com/drive/folders/1G3869JJ7KmK-5ddr6w1GbwnNZ3agtnP1
+New Capstone boxes: https://drive.google.com/drive/folders/1VXEuyySgzsSo-MYmyCareTnJ5rAeVKeH
 
 Old Capstone boxes: https://youtu.be/JZN3JhoAdWo
 
