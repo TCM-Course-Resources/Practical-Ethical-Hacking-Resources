@@ -42,8 +42,6 @@ VirtualBox: https://www.virtualbox.org/wiki/Downloads
 
 Kali Download: https://www.offensive-security.com/kali-linux-vm-vmware-virtualbox-image-download/
 
-Shared Drive: https://drive.google.com/open?id=1pIh9t_e6CyjaaZgtA_K1okZkcHhrXncX
-
 Official Offensive Security kali 2019.3 release: https://cdimage.kali.org/kali-2019.3/
 
 Other Offical kali 2019 Releases: https://cdimage.kali.org/
