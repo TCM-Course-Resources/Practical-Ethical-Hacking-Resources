@@ -130,6 +130,9 @@ sumrecon: https://github.com/thatonetester/sumrecon
  Sample Pentest Report: https://github.com/hmaverickadams/TCM-Security-Sample-Pentest-Report
   
  ## Tools
+ #### Pimpmykali
+ * Github: https://github.com/Dewalt-arch/pimpmykali
+ 
  #### Hunter.io
  * Site: https://hunter.io/
  
