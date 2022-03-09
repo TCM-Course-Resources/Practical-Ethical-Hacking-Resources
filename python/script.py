@@ -17,7 +17,7 @@ print(int(30.9)) # casting float as int
 
 print("Hello, my name is " + name + " and I am " + str(age) + " years old!")
 
-age+=1
+age += 1
 print(age)
 
 birthday = 1
@@ -26,7 +26,7 @@ print(age)
 
 print('\n')
 
-#Functions
+# Functions
 print("This is an example of a function")
 
 def who_am_i():
@@ -83,22 +83,23 @@ greater_than_equal_to = 7 >= 7
 less_than_equal_to = 7 <= 7
 
 test_and1 = (7 > 5) and (5 < 7)  # True
-test_and2 = (7 > 5) and (7 > 5)  # False
+test_and2 = (7 < 5) and (7 > 5)  # False
 test_or =  (7 > 5) or (5 < 7)  # True
-test_or2 = (7 > 5) or (5 > 7)  # False
+test_or2 = (7 < 5) or (5 > 7)  # False
 
 test_not = not True  # False
 
 nl()
-#Conditional statements
+
+# Conditional statements
 def drink(money):
   if money >= 2:
     return "You've got yourself a drink"
   else:
     return "yeah, NO. get outta here"
 
-drink(2)
-drink(1)
+print(drink(2))
+print(drink(1))
 
 def alcohol(age,money):
   if (age >= 21) and (money >= 5):
@@ -115,11 +116,12 @@ print(alcohol(21,4))
 print(alcohol(20,4))
   
 nl()
+
 # lists []
 movies = ["Hangover", "The Perkins", "Spiderman 3"]
   
-print(movies[1]) # return second item
-print(movies[0]) # returns first item
+print(movies[1]) # returns the second item
+print(movies[0]) # returns the first item
 print(movies[1:4])
 print(movies[1:])
 print(movies[:2])
@@ -136,18 +138,19 @@ movies.pop(0)
 print(movies)
 
 nl()
-#Tuples - static, ()
+
+# Tuples - static, ()
 grades = ("a", "b", "c", "d", "f")
 print(grades[1])
 
 nl()
+
 # Loops
 vegetables = ["cucumber", "spinach", "cabbage"]
 for x in vegetables:
     print(x)
     
- # While loops - execute so long as true
-
+# While loops - execute so long as true
 i = 1
 while i < 100:
   print(i)
