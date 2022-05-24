@@ -92,11 +92,11 @@ eLS PTX: https://www.elearnsecurity.com/course/penetration_testing_extreme/
 sumrecon: https://github.com/thatonetester/sumrecon
 
 ### Testing the Top 10 Web Application Vulnerabilities
- OWASP Top 10: https://www.owasp.org/images/7/72/OWASP_Top_10-2017_%28en%29.pdf.pdf
+ OWASP Top 10: https://owasp.org/www-pdf-archive/OWASP_Top_10-2017_%28en%29.pdf.pdf
  
  OWASP Testing Checklist: https://github.com/tanprathan/OWASP-Testing-Checklist
  
- OWASP Testing Guide: https://www.owasp.org/images/1/19/OTGv4.pdf
+ OWASP Testing Guide: https://owasp.org/www-pdf-archive/OTGv4.pdf
  
  Installing Docker on Kali: https://medium.com/@airman604/installing-docker-in-kali-linux-2017-1-fbaa4d1447fe
  
