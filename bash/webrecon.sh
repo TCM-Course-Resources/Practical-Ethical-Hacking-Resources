@@ -1,5 +1,10 @@
 #!/bin/bash
 
+if [ ! $1 ]; then
+	echo "Syntax: ./webrecon.sh <domain> "
+	exit
+fi
+
 url=$1
 if [ ! -d "$url" ];then
     mkdir $url
